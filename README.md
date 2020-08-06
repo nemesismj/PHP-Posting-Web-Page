@@ -4,7 +4,11 @@ Simple docker-compose for Laravel, with postgresql, reddis, nginx and php-fpm
 * Docker running on the host machine.
 * Docker compose running on the host machine.
 * Basic knowledge of Docker.
- 
+
+# Functionality
+Simple login registration
+making post
+like/dislike
 
 ### multiple servers:
 - create file conf of nginx in nginx directory you should use default.conf as exemple 
